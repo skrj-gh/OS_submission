@@ -1,1 +1,3 @@
 Hi! I am Shubham Kumar Jha. My Roll No. is 220102096 and I am a student of ECE branch.
+
+I want to contribute to open source as I think it is an amazing field. It has basically a lot of code available online and you can then build upon that and help make softwares more efficient and usable. Also we all need some kind of help and open source provides you that basic structure over which you can futher build upon your softwares. Thanks!!
